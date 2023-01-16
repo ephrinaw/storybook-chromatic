@@ -1,15 +1,15 @@
 info @storybook/react v6.5.15
 info 
-info => Cleaning outputDir: C:\\Users\\YOGA26~1\\AppData\\Local\\Temp\\chromatic--1908-MNtzwcNMn4bb
+info => Cleaning outputDir: C:\\Users\\YOGA26~1\\AppData\\Local\\Temp\\chromatic--12652-BkpDpDJE6xj7
 info => Loading presets
-info => Copying static files: C:\Users\Yoga 260\desktop\taskbox\public at C:\Users\YOGA26~1\AppData\Local\Temp\chromatic--1908-MNtzwcNMn4bb\
+info => Copying static files: C:\Users\Yoga 260\desktop\taskbox\public at C:\Users\YOGA26~1\AppData\Local\Temp\chromatic--12652-BkpDpDJE6xj7\
 info => Compiling manager..
 info => Compiling preview..
 info Addon-docs: using MDX1
 info => Loading Webpack configuration from `node_modules\react-scripts`
 info => Removing existing JavaScript and TypeScript rules.
 info => Modifying Create React App rules.
-(node:15576) ExperimentalWarning: The Fetch API is an experimental feature. This feature could change at any time
+(node:15724) ExperimentalWarning: The Fetch API is an experimental feature. This feature could change at any time
 (Use `node --trace-warnings ...` to show where the warning was created)
 info => Using default Webpack5 setup
 <s> [webpack.Progress] 0% 
@@ -55,7 +55,6 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 9% setup compilation InlineChunkHtmlPlugin
 <s> [webpack.Progress] 9% setup compilation InterpolateHtmlPlugin
 <s> [webpack.Progress] 9% setup compilation mini-css-extract-plugin
-<s> [webpack.Progress] 9% setup compilation DocGenPlugin
 <s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
 <s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
 <s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
@@ -130,58 +129,51 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 9% setup compilation
 <s> [webpack.Progress] 10% building
 <s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
-<s> [webpack.Progress] 10% building 0/15 entries 3/15 dependencies 0/2 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
 <s> [webpack.Progress] 10% building import loader ./node_modules/source-map-loader/dist/cjs.js
 <s> [webpack.Progress] 10% building 0/15 entries 18/38 dependencies 0/17 modules
-<s> [webpack.Progress] 10% building 0/15 entries 19/38 dependencies 0/17 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
 <s> [webpack.Progress] 10% building 0/15 entries 37/64 dependencies 0/34 modules
-<s> [webpack.Progress] 10% building 0/15 entries 57/100 dependencies 0/44 modules
+<s> [webpack.Progress] 10% building 0/15 entries 100/208 dependencies 1/74 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
 <s> [webpack.Progress] 10% building import loader ./node_modules/react-scripts/node_modules/css-loader/dist/cjs.js
 <s> [webpack.Progress] 10% building import loader ./node_modules/postcss-loader/dist/cjs.js
-<s> [webpack.Progress] 10% building 0/15 entries 162/186 dependencies 3/121 modules
-<s> [webpack.Progress] 10% building 0/15 entries 203/500 dependencies 6/131 modules
-<s> [webpack.Progress] 10% building 0/15 entries 400/592 dependencies 8/229 modules
-<s> [webpack.Progress] 13% building 1/15 entries 445/592 dependencies 12/249 modules
-<s> [webpack.Progress] 13% building 1/15 entries 589/660 dependencies 13/338 modules
-<s> [webpack.Progress] 13% building 1/15 entries 800/1172 dependencies 32/390 modules
-<s> [webpack.Progress] 13% building 1/15 entries 1035/1172 dependencies 39/422 modules
-<s> [webpack.Progress] 13% building 1/15 entries 1400/1468 dependencies 69/492 modules
-<s> [webpack.Progress] 13% building 1/15 entries 1439/1500 dependencies 73/512 modules
-<s> [webpack.Progress] 13% building 1/15 entries 1726/1900 dependencies 95/599 modules
-<s> [webpack.Progress] 13% building 1/15 entries 2111/2200 dependencies 123/640 modules
-<s> [webpack.Progress] 13% building 1/15 entries 2285/2400 dependencies 155/668 modules
-<s> [webpack.Progress] 13% building 1/15 entries 2500/2578 dependencies 190/735 modules
-<s> [webpack.Progress] 13% building 1/15 entries 2800/2860 dependencies 270/787 modules
-<s> [webpack.Progress] 14% building 1/15 entries 3183/3300 dependencies 396/829 modules
-<s> [webpack.Progress] 15% building 1/15 entries 3521/3600 dependencies 461/876 modules
-<s> [webpack.Progress] 15% building 1/15 entries 3900/4025 dependencies 539/978 modules
-<s> [webpack.Progress] 16% building 1/15 entries 4019/4100 dependencies 548/1012 modules
-<s> [webpack.Progress] 17% building 1/15 entries 4329/4389 dependencies 640/1100 modules
-<s> [webpack.Progress] 17% building 1/15 entries 4600/4670 dependencies 674/1138 modules
-<s> [webpack.Progress] 17% building 1/15 entries 4738/4875 dependencies 700/1159 modules
-<s> [webpack.Progress] 18% building 1/15 entries 5153/5170 dependencies 800/1267 modules
-<s> [webpack.Progress] 21% building 1/15 entries 5450/5499 dependencies 1000/1321 modules
-<s> [webpack.Progress] 22% building 1/15 entries 5839/5900 dependencies 1141/1538 modules
-<s> [webpack.Progress] 24% building 1/15 entries 5968/6000 dependencies 1276/1580 modules
-<s> [webpack.Progress] 26% building 1/15 entries 6379/6400 dependencies 1485/1693 modules
-<s> [webpack.Progress] 28% building 2/15 entries 6723/6749 dependencies 1644/1772 modules
-<s> [webpack.Progress] 28% building 3/15 entries 6723/6749 dependencies 1645/1772 modules
-<s> [webpack.Progress] 28% building 4/15 entries 6723/6749 dependencies 1646/1772 modules
-<s> [webpack.Progress] 28% building 5/15 entries 6723/6749 dependencies 1647/1772 modules
-<s> [webpack.Progress] 32% building 6/15 entries 6723/6749 dependencies 1648/1772 modules
-<s> [webpack.Progress] 35% building 7/15 entries 6723/6749 dependencies 1649/1772 modules
-<s> [webpack.Progress] 39% building 8/15 entries 6723/6749 dependencies 1650/1772 modules
-<s> [webpack.Progress] 42% building 9/15 entries 6723/6749 dependencies 1651/1772 modules
-<s> [webpack.Progress] 46% building 10/15 entries 6723/6749 dependencies 1652/1772 modules
-<s> [webpack.Progress] 50% building 11/15 entries 6723/6749 dependencies 1653/1772 modules
-<s> [webpack.Progress] 50% building 11/15 entries 6765/6800 dependencies 1660/1786 modules
-<s> [webpack.Progress] 53% building 12/15 entries 6966/6987 dependencies 1752/1826 modules
-<s> [webpack.Progress] 57% building 13/15 entries 7133/7140 dependencies 1846/1861 modules
-<s> [webpack.Progress] 61% building 14/15 entries 7133/7140 dependencies 1846/1861 modules
-<s> [webpack.Progress] 65% building 15/15 entries 7146/7146 dependencies 1865/1865 modules
+<s> [webpack.Progress] 10% building 0/15 entries 141/208 dependencies 2/101 modules
+<s> [webpack.Progress] 10% building 0/15 entries 209/500 dependencies 7/135 modules
+<s> [webpack.Progress] 10% building 0/15 entries 500/522 dependencies 9/275 modules
+<s> [webpack.Progress] 10% building 0/15 entries 515/700 dependencies 13/285 modules
+<s> [webpack.Progress] 13% building 1/15 entries 569/1047 dependencies 21/297 modules
+<s> [webpack.Progress] 13% building 1/15 entries 946/1047 dependencies 26/388 modules
+<s> [webpack.Progress] 13% building 1/15 entries 1238/1300 dependencies 50/446 modules
+<s> [webpack.Progress] 13% building 1/15 entries 1439/1500 dependencies 71/509 modules
+<s> [webpack.Progress] 13% building 1/15 entries 1587/1700 dependencies 95/525 modules
+<s> [webpack.Progress] 13% building 1/15 entries 1900/2222 dependencies 123/586 modules
+<s> [webpack.Progress] 13% building 1/15 entries 2195/2300 dependencies 146/654 modules
+<s> [webpack.Progress] 13% building 1/15 entries 2400/2561 dependencies 221/670 modules
+<s> [webpack.Progress] 13% building 1/15 entries 2800/2885 dependencies 288/791 modules
+<s> [webpack.Progress] 14% building 1/15 entries 3177/3257 dependencies 400/826 modules
+<s> [webpack.Progress] 15% building 1/15 entries 3500/3569 dependencies 499/865 modules
+<s> [webpack.Progress] 15% building 1/15 entries 3601/4000 dependencies 508/884 modules
+<s> [webpack.Progress] 16% building 1/15 entries 4177/4300 dependencies 591/1050 modules
+<s> [webpack.Progress] 17% building 1/15 entries 4682/4700 dependencies 674/1161 modules
+<s> [webpack.Progress] 19% building 1/15 entries 5216/5261 dependencies 900/1277 modules
+<s> [webpack.Progress] 22% building 1/15 entries 5800/5856 dependencies 1172/1487 modules
+<s> [webpack.Progress] 26% building 1/15 entries 6278/6300 dependencies 1469/1658 modules
+<s> [webpack.Progress] 27% building 1/15 entries 6643/6667 dependencies 1600/1751 modules
+<s> [webpack.Progress] 27% building 2/15 entries 6643/6667 dependencies 1632/1751 modules
+<s> [webpack.Progress] 27% building 3/15 entries 6643/6667 dependencies 1632/1751 modules
+<s> [webpack.Progress] 27% building 4/15 entries 6643/6667 dependencies 1632/1751 modules
+<s> [webpack.Progress] 28% building 5/15 entries 6643/6667 dependencies 1632/1751 modules
+<s> [webpack.Progress] 32% building 6/15 entries 6643/6667 dependencies 1632/1751 modules
+<s> [webpack.Progress] 35% building 7/15 entries 6643/6667 dependencies 1632/1751 modules
+<s> [webpack.Progress] 39% building 8/15 entries 6643/6667 dependencies 1632/1751 modules
+<s> [webpack.Progress] 42% building 9/15 entries 6643/6667 dependencies 1632/1751 modules
+<s> [webpack.Progress] 46% building 10/15 entries 6643/6667 dependencies 1632/1751 modules
+<s> [webpack.Progress] 50% building 11/15 entries 6643/6667 dependencies 1633/1751 modules
+<s> [webpack.Progress] 54% building 12/15 entries 6984/6995 dependencies 1776/1829 modules
+<s> [webpack.Progress] 57% building 13/15 entries 7122/7131 dependencies 1826/1860 modules
+<s> [webpack.Progress] 61% building 14/15 entries 7122/7131 dependencies 1826/1860 modules
+<s> [webpack.Progress] 64% building 15/15 entries 7145/7145 dependencies 1864/1864 modules
 <s> [webpack.Progress] 65% building
 <s> [webpack.Progress] 69% building finish
 <s> [webpack.Progress] 69% building finish
@@ -194,7 +186,6 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 70% sealing finish module graph ESLintWebpackPlugin_1
 <s> [webpack.Progress] 70% sealing finish module graph
 <s> [webpack.Progress] 70% sealing plugins
-<s> [webpack.Progress] 70% sealing plugins DocGenPlugin
 <s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
 <s> [webpack.Progress] 70% sealing plugins
 <s> [webpack.Progress] 71% sealing dependencies optimization
@@ -283,7 +274,7 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 92% sealing asset processing ESLintWebpackPlugin_1
 <s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
 <s> [webpack.Progress] 92% sealing asset processing TerserPlugin
-info => Manager built (1.83 min)
+info => Manager built (1 min)
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -409,7 +400,7 @@ WARN     Used by 5 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.array.map.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\array-method-has-species-support.js
 WARN     Used by 6 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.array.slice.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.array.filter.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -490,7 +481,7 @@ WARN     Used by 9 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\is-array.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\classof-raw.js
 WARN     Used by 9 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\is-array.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\regexp-exec-abstract.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -508,7 +499,7 @@ WARN     Used by 3 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.map.constructor.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\collection-strong.js
 WARN     Used by 3 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.map.constructor.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.set.constructor.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -517,7 +508,7 @@ WARN     Used by 3 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.map.constructor.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\collection.js
 WARN     Used by 4 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.map.constructor.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.set.constructor.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -580,7 +571,7 @@ WARN     Used by 6 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\create-property-descriptor.js
 WARN     Used by 8 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\create-non-enumerable-property.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -625,7 +616,7 @@ WARN     Used by 2 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\collection-strong.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\define-built-ins.js
 WARN     Used by 6 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.weak-map.constructor.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\array-buffer.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -634,7 +625,7 @@ WARN     Used by 4 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\export.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\define-global-property.js
 WARN     Used by 4 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\define-built-in.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\export.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -670,7 +661,7 @@ WARN     Used by 20 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.function.name.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\descriptors.js
 WARN     Used by 28 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.array.iterator.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.description.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -679,7 +670,7 @@ WARN     Used by 5 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\dom-token-list-prototype.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\document-create-element.js
 WARN     Used by 5 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\dom-token-list-prototype.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\object-create.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -868,7 +859,7 @@ WARN     Used by 8 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\array-from.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\function-bind-context.js
 WARN     Used by 11 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\array-from.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\array-iteration.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -958,7 +949,7 @@ WARN     Used by 29 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.symbol.description.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\global.js
 WARN     Used by 47 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\web.dom-collections.iterator.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.description.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -976,7 +967,7 @@ WARN     Used by 6 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\hidden-keys.js
 WARN     Used by 6 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\internal-state.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -1009,7 +1000,7 @@ WARN This can lead to unexpected behavior when compiling on a filesystem with ot
 WARN Use equal casing. Compare these module identifiers:
 WARN * C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\indexed-object.js
 WARN     Used by 4 module(s), i. e.
-WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\array-iteration.js
+WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\to-indexed-object.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\indexed-object.js
 WARN     Used by 6 module(s), i. e.
 WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\to-indexed-object.js
@@ -1129,7 +1120,7 @@ WARN     Used by 6 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.symbol.key-for.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\is-symbol.js
 WARN     Used by 7 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.key-for.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.json.stringify.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -1219,7 +1210,7 @@ WARN     Used by 7 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\native-symbol.js
 WARN     Used by 7 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\well-known-symbol.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -1234,7 +1225,7 @@ WARN This can lead to unexpected behavior when compiling on a filesystem with ot
 WARN Use equal casing. Compare these module identifiers:
 WARN * C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\new-promise-capability.js
 WARN     Used by 5 module(s), i. e.
-WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.promise.constructor.js
+WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.promise.all.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\new-promise-capability.js
 WARN     Used by 5 module(s), i. e.
 WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.promise.constructor.js
@@ -1273,7 +1264,7 @@ WARN     Used by 2 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\object-define-properties.js
 WARN     Used by 2 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\object-create.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -1282,7 +1273,7 @@ WARN     Used by 17 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.function.name.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\object-define-property.js
 WARN     Used by 21 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.array.iterator.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.description.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -1291,7 +1282,7 @@ WARN     Used by 6 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\export.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\object-get-own-property-descriptor.js
 WARN     Used by 11 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\export.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -1381,7 +1372,7 @@ WARN     Used by 4 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\define-iterator.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\object-set-prototype-of.js
 WARN     Used by 7 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.promise.constructor.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\define-iterator.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -1432,7 +1423,7 @@ WARN This can lead to unexpected behavior when compiling on a filesystem with ot
 WARN Use equal casing. Compare these module identifiers:
 WARN * C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\perform.js
 WARN     Used by 4 module(s), i. e.
-WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.promise.constructor.js
+WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.promise.all.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\perform.js
 WARN     Used by 4 module(s), i. e.
 WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.promise.constructor.js
@@ -1588,7 +1579,7 @@ WARN     Used by 6 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\set-to-string-tag.js
 WARN     Used by 13 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.promise.constructor.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -1597,7 +1588,7 @@ WARN     Used by 5 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\shared-key.js
 WARN     Used by 5 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\internal-state.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -1615,7 +1606,7 @@ WARN     Used by 7 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\shared.js
 WARN     Used by 7 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\well-known-symbol.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.for.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -1741,7 +1732,7 @@ WARN     Used by 5 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\object-define-property.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\to-property-key.js
 WARN     Used by 6 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\object-define-property.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -1759,7 +1750,7 @@ WARN     Used by 18 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.symbol.description.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\to-string.js
 WARN     Used by 23 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.string.iterator.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.description.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -1768,7 +1759,7 @@ WARN     Used by 7 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.symbol.key-for.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\try-to-string.js
 WARN     Used by 8 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\a-constructor.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.key-for.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -1777,7 +1768,7 @@ WARN     Used by 5 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\uid.js
 WARN     Used by 6 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\well-known-symbol.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -1894,7 +1885,7 @@ WARN     Used by 14 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\@storybook\addon-interactions\dist\esm\Panel.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.array.iterator.js
 WARN     Used by 50 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\core-client\dist\esm\manager\conditional-polyfills.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\core-client\dist\esm\manager\provider.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -2020,7 +2011,7 @@ WARN     Used by 13 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\@storybook\addon-interactions\dist\esm\Panel.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.object.to-string.js
 WARN     Used by 63 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\core-client\dist\esm\manager\conditional-polyfills.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\core-client\dist\esm\manager\provider.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -2110,7 +2101,7 @@ WARN     Used by 13 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\@storybook\addon-interactions\dist\esm\Panel.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.regexp.exec.js
 WARN     Used by 47 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\addon-actions\dist\esm\manager.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\addon-backgrounds\dist\esm\manager.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -2173,7 +2164,7 @@ WARN     Used by 12 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\@storybook\addon-interactions\dist\esm\Panel.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.string.iterator.js
 WARN     Used by 46 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\core-client\dist\esm\manager\conditional-polyfills.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\core-client\dist\esm\manager\provider.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -2299,7 +2290,7 @@ WARN     Used by 12 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\@storybook\addon-interactions\dist\esm\Panel.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\web.dom-collections.iterator.js
 WARN     Used by 47 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\core-client\dist\esm\manager\conditional-polyfills.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\core-client\dist\esm\manager\provider.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -2412,8 +2403,8 @@ WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\polished\dist\polished.e
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/main.afce5f59.css generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/main.afce5f59.css generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.60594682.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.60594682.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.9d1cdb01.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.9d1cdb01.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.29aa8c65.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.29aa8c65.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 701.9b1f103b.iframe.bundle.js generate SourceMap
@@ -2436,8 +2427,8 @@ WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\polished\dist\polished.e
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 229.bcf3f054.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 935.049f16f7.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 935.049f16f7.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 605.e54379ea.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 605.e54379ea.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 73.2fff60b1.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 73.2fff60b1.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/main.afce5f59.css attach SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/main.afce5f59.css attached SourceMap
@@ -2451,8 +2442,8 @@ WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\polished\dist\polished.e
 <s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.a5d8f2bd.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.a5d8f2bd.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.24eac7a0.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.24eac7a0.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.fd2bbf84.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.fd2bbf84.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 701.78aed421.iframe.bundle.js generate SourceMap
@@ -2475,8 +2466,8 @@ WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\polished\dist\polished.e
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 807.cfad355f.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 897.5f60f267.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 897.5f60f267.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 605.04d2794b.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 605.04d2794b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 73.e73c540a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 73.e73c540a.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
 <s> [webpack.Progress] 92% sealing asset processing
@@ -2502,7 +2493,7 @@ WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\polished\dist\polished.e
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 100% 
 
-info => Preview built (2.02 min)
+info => Preview built (1.17 min)
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -2565,7 +2556,7 @@ WARN     Used by 9 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.promise.constructor.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\a-callable.js
 WARN     Used by 12 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.promise.constructor.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.promise.all.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -2916,7 +2907,7 @@ WARN     Used by 18 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.function.name.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\descriptors.js
 WARN     Used by 27 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.function.name.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.description.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -3060,7 +3051,7 @@ WARN     Used by 34 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.object.entries.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\export.js
 WARN     Used by 67 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.description.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.array.slice.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -3141,7 +3132,7 @@ WARN     Used by 33 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.function.name.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\function-uncurry-this.js
 WARN     Used by 54 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.function.name.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.description.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -3465,7 +3456,7 @@ WARN     Used by 5 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.promise.constructor.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\new-promise-capability.js
 WARN     Used by 5 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.promise.constructor.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.promise.all.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -3510,7 +3501,7 @@ WARN     Used by 15 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.function.name.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\object-define-property.js
 WARN     Used by 20 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.function.name.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.description.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -3579,7 +3570,7 @@ WARN This can lead to unexpected behavior when compiling on a filesystem with ot
 WARN Use equal casing. Compare these module identifiers:
 WARN * C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\object-keys-internal.js
 WARN     Used by 3 module(s), i. e.
-WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\object-keys.js
+WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\object-get-own-property-names.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\object-keys-internal.js
 WARN     Used by 3 module(s), i. e.
 WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\object-keys.js
@@ -3663,7 +3654,7 @@ WARN     Used by 4 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.promise.constructor.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\perform.js
 WARN     Used by 4 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.promise.constructor.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.promise.all.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -3825,13 +3816,13 @@ WARN     Used by 7 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\shared.js
 WARN     Used by 7 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.for.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.constructor.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
 WARN * C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\internals\species-constructor.js
 WARN     Used by 3 module(s), i. e.
-WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.promise.constructor.js
+WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\core-js\modules\es.string.split.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\internals\species-constructor.js
 WARN     Used by 4 module(s), i. e.
 WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.promise.constructor.js
@@ -4149,7 +4140,7 @@ WARN     Used by 3 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\@storybook\addon-interactions\dist\esm\preset\preview.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.function.name.js
 WARN     Used by 71 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\react\dist\esm\client\docs\extractArgTypes.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\react\dist\esm\client\docs\jsxDecorator.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -4194,7 +4185,7 @@ WARN     Used by 2 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\@storybook\addon-links\dist\esm\utils.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.object.assign.js
 WARN     Used by 53 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\react\dist\esm\client\docs\extractArgTypes.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\react\dist\esm\client\docs\jsxDecorator.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -4410,7 +4401,7 @@ WARN     Used by 4 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\@storybook\addon-interactions\dist\esm\preset\preview.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.description.js
 WARN     Used by 56 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\react\dist\esm\client\docs\extractArgTypes.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\react\dist\esm\client\docs\jsxDecorator.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -4437,7 +4428,7 @@ WARN     Used by 4 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\@storybook\addon-interactions\dist\esm\preset\preview.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\core-js\modules\es.symbol.js
 WARN     Used by 61 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\react\dist\esm\client\docs\extractArgTypes.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\@storybook\react\dist\esm\client\docs\jsxDecorator.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -4605,7 +4596,7 @@ WARN This can lead to unexpected behavior when compiling on a filesystem with ot
 WARN Use equal casing. Compare these module identifiers:
 WARN * C:\Users\Yoga 260\Desktop\taskbox\node_modules\lodash\_MapCache.js
 WARN     Used by 3 module(s), i. e.
-WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\lodash\_stackSet.js
+WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\lodash\_SetCache.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\lodash\_MapCache.js
 WARN     Used by 4 module(s), i. e.
 WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\lodash\_stackSet.js
@@ -4650,7 +4641,7 @@ WARN This can lead to unexpected behavior when compiling on a filesystem with ot
 WARN Use equal casing. Compare these module identifiers:
 WARN * C:\Users\Yoga 260\Desktop\taskbox\node_modules\lodash\_Symbol.js
 WARN     Used by 5 module(s), i. e.
-WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\lodash\_equalByTag.js
+WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\lodash\_baseToString.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\lodash\_Symbol.js
 WARN     Used by 6 module(s), i. e.
 WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\lodash\_baseGetTag.js
@@ -4707,7 +4698,7 @@ WARN     Used by 2 module(s), i. e.
 WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\lodash\_baseGetAllKeys.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\lodash\_arrayPush.js
 WARN     Used by 4 module(s), i. e.
-WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\lodash\_baseGetAllKeys.js
+WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\lodash\_getSymbolsIn.js
 WARN There are multiple modules with names that only differ in casing.
 WARN This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 WARN Use equal casing. Compare these module identifiers:
@@ -4974,7 +4965,7 @@ WARN This can lead to unexpected behavior when compiling on a filesystem with ot
 WARN Use equal casing. Compare these module identifiers:
 WARN * C:\Users\Yoga 260\Desktop\taskbox\node_modules\lodash\_getMapData.js
 WARN     Used by 5 module(s), i. e.
-WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\lodash\_mapCacheDelete.js
+WARN     C:\Users\Yoga 260\Desktop\taskbox\node_modules\lodash\_mapCacheHas.js
 WARN * C:\Users\Yoga 260\desktop\taskbox\node_modules\lodash\_getMapData.js
 WARN     Used by 5 module(s), i. e.
 WARN     C:\Users\Yoga 260\desktop\taskbox\node_modules\lodash\_mapCacheDelete.js
@@ -5664,17 +5655,17 @@ WARN Assets:
 WARN   273.c07c49ff.iframe.bundle.js (600 KiB)
 WARN   115.3cc40919.iframe.bundle.js (682 KiB)
 WARN   807.cfad355f.iframe.bundle.js (794 KiB)
-WARN   605.04d2794b.iframe.bundle.js (2.9 MiB)
+WARN   73.e73c540a.iframe.bundle.js (2.78 MiB)
 WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
 WARN Entrypoints:
-WARN   main (2.95 MiB)
+WARN   main (2.82 MiB)
 WARN       runtime~main.fd2bbf84.iframe.bundle.js
-WARN       605.04d2794b.iframe.bundle.js
-WARN       main.a5d8f2bd.iframe.bundle.js
+WARN       73.e73c540a.iframe.bundle.js
+WARN       main.24eac7a0.iframe.bundle.js
 WARN       static/css/main.eed9b159.css
 WARN 
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-info => Output directory: C:\\Users\\YOGA26~1\\AppData\\Local\\Temp\\chromatic--1908-MNtzwcNMn4bb
+info => Output directory: C:\\Users\\YOGA26~1\\AppData\\Local\\Temp\\chromatic--12652-BkpDpDJE6xj7
